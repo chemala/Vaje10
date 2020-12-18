@@ -1,1 +1,1 @@
-# Vaje10
+Ovo su Vaje.
